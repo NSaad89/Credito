@@ -1,5 +1,5 @@
 # Credito
-
+This project uses Java to develop a credit (loan) program. I created it as an academic project while I was learning Java Design Patterns.
 
 👋 Hi, I’m Natalia Saad 
 👀 I’m interested in programming and software development 
